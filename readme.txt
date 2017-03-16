@@ -1,3 +1,3 @@
-This is a Git test!
+This is a great git test!
 create a new branch
 
